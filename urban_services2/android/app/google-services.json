@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991860978031",
+    "project_id": "urbanservices-9e464",
+    "storage_bucket": "urbanservices-9e464.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991860978031:android:c1fdc04dc9fdae4019b89a",
+        "android_client_info": {
+          "package_name": "com.example.urban_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLRbcL3oFmUHdN6Wdo_413FCYaAeYCRTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
